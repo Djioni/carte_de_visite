@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Carte de visite',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        appBarTheme: AppBarTheme(elevation: 0),
       ),
       home: HomePage(),
     );
