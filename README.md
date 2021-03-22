@@ -7,11 +7,11 @@ The screenshots below are taken on a mac.
 
 | 1 | 2|
 |------|-------|
-|<img src="./assets/screenshot/1.png" width="300">|<img src="./assets/screenshot/2.png" width="300">|
+|<img src="./assets/screenshot1.png" width="300">|<img src="./assets/screenshot2.png" width="300">|
 
 | 3 | 4|
 |------|-------|
-|<img src="./assets/screenshot/3.png" width="300">|<img src="assets/screenshot/4.png" width="300">|
+|<img src="./assets/screenshot3.png" width="300">|<img src="assets/screenshot4.png" width="300">|
 
 ## Getting Started
 
