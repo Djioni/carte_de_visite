@@ -2,6 +2,17 @@
 
 Application Demo.
 
+# 📸 Screenshots
+The screenshots below are taken on a mac.
+
+| 1 | 2|
+|------|-------|
+|<img src="assets/screenshots/1.png" width="300">|<img src="assets/screenshots/2.png" width="300">|
+
+| 3 | 4|
+|------|-------|
+|<img src="assets/screenshots/3.png" width="300">|<img src="assets/screenshots/4.png" width="300">|
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
