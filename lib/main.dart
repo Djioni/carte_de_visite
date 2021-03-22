@@ -23,7 +23,7 @@ class VisitCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Exercise',
+      title: 'VisitCard',
       debugShowCheckedModeBanner: false,
       theme: themeData,
       home: WelcomeActivity(),
